@@ -1,5 +1,9 @@
 # Toni-Randolph
 
 This is our collaboration in GitHub
-This is Tonis change
+
+*This is Tonis change
 Hope you like it
+
+* Randolph's commit
+
